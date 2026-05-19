@@ -127,17 +127,7 @@
 
 ---
 
-# 🔝 Top Contributed Repo
 
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=wcr-karan&limit=5&theme=dark&combine_all_yearly_contributions=true"
-  />
-</p>
-
----
-
-<p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=wcr-karan&icon=5&color=9"
   />
