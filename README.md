@@ -35,17 +35,7 @@
 
 </td>
 
-<td width="50%" valign="top">
 
-
-  <img 
-    src="https://raw.githubusercontent.com/wcr-karan/wcr-karan/main/assets/Wallpaper%20-%20Samurai%20Developer%20Desktop.webp" 
-    alt="Samurai Developer Banner" 
-    width="100%"
-  />
-
-
-</td>
 
 </tr>
 </table>
